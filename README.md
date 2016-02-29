@@ -6,12 +6,10 @@ For more information, you can visit this [tutorial from Jordan Danielewski](http
 
 ## Installation
 
-1) Go to **chrome://extensions** and click "Pack extension".
+1) Go to **chrome://extensions** and click "Load unpacked extension...".
 
-2) In the first field, select the *chrome-new-tab-keyboard-cat* folder where the repository has been cloned. You can keep the second field empty.
+2) Select the *chrome-new-tab-keyboard-cat* folder where the repository has been cloned.
 
-3) Click the "Package" button, it will generate a .crx file next to the *chrome-new-tab-keyboard-cat* folder.
+3) Click OK to activate the extension.
 
-4) Drag and drop the .crx file to the Chrome extensions page to install it.
-
-For more information on packaging: https://developer.chrome.com/extensions/packaging
+Please note that, since the extension does not come from the Chrome Web Store, you will get a warning each time you launch the browser.
