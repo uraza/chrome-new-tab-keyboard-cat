@@ -1,7 +1,6 @@
 video {
-    position: fixed;
+    position: absolute;
     top:  50%;
     left: 50%;
-    margin-top:  -116px; /* Video height is 233 px */
-    margin-left: -154px; /* Video width  is 308 px */
+    transform: translate(-50%, -50%);
 }
